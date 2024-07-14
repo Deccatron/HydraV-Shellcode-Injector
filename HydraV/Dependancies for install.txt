@@ -1,0 +1,4 @@
+Dependancies needed for use of HydraV
+--------------------------------------
+
+pip install psutil
